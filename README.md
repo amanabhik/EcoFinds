@@ -79,8 +79,6 @@ ecofinds-marketplace/
 - Toys & Games
 - Other
 
-## 🏆 Hackathon-Ready Features
-
 ### What Makes EcoFinds Stand Out:
 
 1. **Quantified Impact**: Real CO₂ savings calculations that judges can see and understand
